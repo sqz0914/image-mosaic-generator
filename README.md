@@ -16,8 +16,6 @@ Divides an image into a grid, classifies every cell by color or brightness, and 
 the image out of tiles drawn from a procedurally generated tile set. Every grid operation
 is a vectorized NumPy array expression — no Python loop touches a cell on the fast path.
 
-**CS 5130 · Lab 1.**
-
 ## Quick start
 
 ```bash
