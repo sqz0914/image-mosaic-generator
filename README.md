@@ -16,6 +16,11 @@ Divides an image into a grid, classifies every cell by color or brightness, and 
 the image out of tiles drawn from a procedurally generated tile set. Every grid operation
 is a vectorized NumPy array expression — no Python loop touches a cell on the fast path.
 
+**▶ Live demo:** <https://huggingface.co/spaces/sqz0914/image-mosaic-generator>
+
+The Space sleeps when idle, so the first load after a quiet spell takes roughly half a
+minute to wake.
+
 ## Quick start
 
 ```bash
