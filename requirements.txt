@@ -1,0 +1,7 @@
+gradio==6.28.0
+numpy==2.5.3
+opencv-python==5.0.0.93
+scikit-image==0.26.0
+pillow==12.3.0
+matplotlib==3.10.7
+pytest==8.4.2
